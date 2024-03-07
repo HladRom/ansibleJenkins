@@ -15,8 +15,8 @@ In this project, we will go through the process of installing Jenkins and config
 
 - Create Pipeline Task: Create a new Pipeline project in Jenkins and define steps to perform the following actions:
 
--- Copy the Dockerfile using Ansible to the remote server.
--- Build and run the Docker container on the remote server.
+- - Copy the Dockerfile using Ansible to the remote server.
+- - Build and run the Docker container on the remote server.
 - Testing and Debugging: Ensure that the Pipeline works correctly by executing test runs.
 
 ## Conclusion
