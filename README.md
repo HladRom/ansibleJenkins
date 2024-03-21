@@ -19,6 +19,7 @@ In this project, we will go through the process of installing Jenkins and config
 - - Build and run the Docker container on the remote server.
 - Testing and Debugging: Ensure that the Pipeline works correctly by executing test runs.
 
+
 ## Conclusion
 In this project, we have successfully installed Jenkins, configured Ansible for configuration management, created a Dockerfile, and configured a Pipeline task to automate the creation and execution of a Docker container on a remote server. This process allows for efficient use of continuous integration and delivery for your project, providing quick deployment and convenient management.
 
