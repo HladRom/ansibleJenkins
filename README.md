@@ -1,6 +1,5 @@
 #  ansibleJenkins 
 
-
 ##  :star:  :star:  :star: 
 ## Introduction
 In this project, we will go through the process of installing Jenkins and configuring it to create a Pipeline task. Since our task involves Docker, we will also use Ansible to copy necessary local files (such as Dockerfile) to a remote server. Jenkins allows for the automation of various software development, testing, and deployment tasks, while Pipeline enables the creation of complex continuous integration and delivery processes.
